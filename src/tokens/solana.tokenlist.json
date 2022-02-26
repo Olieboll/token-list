@@ -119395,6 +119395,17 @@
         "twitter": "https://twitter.com/talkwith_money",
         "website": "https://www.knitef3.com/home/white-paper"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4CEmorYMVkPad5XrS7p4gqhwwUT4jgBTzcF2d6LTEZ6R",
+      "symbol": "WDY",
+      "name": "Weedys",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Olieboll/crypto/main/Weedy's.png",
+      "tags": [
+        "nft-token"
+      ]
     }
   ],
   "version": {
