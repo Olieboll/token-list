@@ -119382,21 +119382,16 @@
     },
     {
       "chainId": 101,
-      "address": "FUHqX4aEQCofiHFcLoscQ9Y16zuB9mLuqMTwzLGWZbin",
-      "symbol": "f3k",
-      "name": "f3token",
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/bettersree/beeterknitf3/main/knite84053671_padded_logo.png",
+      "address": "4CEmorYMVkPad5XrS7p4gqhwwUT4jgBTzcF2d6LTEZ6R",
+      "symbol": "WDY",
+      "name": "Weedys",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Olieboll/crypto/main/Weedy's.png",
       "tags": [
-        "utility-token",
-        "nft"
-      ],
-      "extensions": {
-        "twitter": "https://twitter.com/talkwith_money",
-        "website": "https://www.knitef3.com/home/white-paper"
-      }
+        "nft-token"
+      ]
     }
-  ],
+      ],
   "version": {
     "major": 0,
     "minor": 3,
